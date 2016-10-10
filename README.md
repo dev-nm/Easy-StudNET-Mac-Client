@@ -23,7 +23,7 @@ University Leipzig
 
 # Changelog
 
-0.91: Bug bei dem das Password als Klartext ausgegeben wurde falls der Server mit dem sich verbunden werden soll SSH nicht akzeptiert wurde gefixt.
+0.91: Bug bei dem das Password als Klartext ausgegeben wurde falls der Server mit dem sich verbunden werden sollte SSH kein StudiNET Server war wurde gefixt.
 
 
 0.9: Grundfunktionalität ist hergestellt
