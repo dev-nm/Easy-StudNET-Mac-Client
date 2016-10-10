@@ -20,3 +20,7 @@ Und so funktioniert es:
 
 Developed by Nicolas Mierbach - 06.10.2016
 University Leipzig
+
+# Changelog
+0.9: Grundfunktionalität ist hergestellt
+0.91: Bug bei dem das Password als Klartext ausgegeben wurde falls der Server mit dem sich verbunden werden soll SSH nicht akzeptiert wurde gefixt.
