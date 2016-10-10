@@ -15,7 +15,7 @@ Und so funktioniert es:
 - Verbinde dich per LAN oder WLAN mit dem StudNET und schließe alle Terminal Fenster (Du musst den gesammten Prozess beenden)
 - Öffne das Programm.
 - Beim ersten mal wirst du nach deinen Accountinformationen gefragt (Mieternummer, Password). Keine Sorge, alle Informationen werden sicher im Apple Schlüsselbund gespeichert
-- Wenn du die App schon einmal verwendet hast wirst du gefragt ob du deinen Account verwenden möchtest oder einen neuen erstellen.
+- Wenn du die App schon einmal verwendet hast wirst du gefragt ob du deinen Account verwenden oder einen neuen erstellen möchtest.
 - Du bist nun verbunden!
 
 Developed by Nicolas Mierbach - 06.10.2016
