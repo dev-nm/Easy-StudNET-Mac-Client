@@ -23,9 +23,8 @@ University Leipzig
 
 # Changelog
 
-0.92: Es müssen nun nicht mehr alle Terminal Fenster geschlossen werden um das Programm aus führen zu dürfen. Die Sicherheit des Passwortes ist auch so sichergestellt. Simultanes Arbeiten im Terminal und neuverbinden mit dem StudNET ist so möglich.
+0.92: Es müssen nun nicht mehr alle Terminal Fenster geschlossen werden um das Programm aus führen zu dürfen. Die Sicherheit des Passwortes ist auch so sichergestellt. Simultanes arbeiten im Terminal und neuverbinden mit dem StudNET ist so möglich.
 
-0.91: Bug bei dem das Password als Klartext ausgegeben wurde falls der Server mit dem sich verbunden werden sollte SSH kein StudiNET Server war wurde gefixt.
-
+0.91: Bug bei dem das Password als Klartext ausgegeben wurde falls der Server mit dem sich verbunden werden sollte kein StudiNET Server war wurde gefixt.
 
 0.9: Grundfunktionalität ist hergestellt
