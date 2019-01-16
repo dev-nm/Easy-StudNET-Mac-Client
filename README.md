@@ -4,7 +4,7 @@ Mit dem Code könnt ihr anstellen, was ihr wollt :)
 
 ## Development is cancelled
 As I'm not longer a student of the University of Leipzig, I cancelled the Development of this script.
-Feel free to do what ou want with the Code :)
+Feel free to do what you want with the Code :)
 
 # Easy-StudNET-Mac-Client (Deutsch)
 Ein einfach ein zu richtender und zu nutzender StudNet Client für Mac.
